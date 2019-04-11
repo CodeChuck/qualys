@@ -1,0 +1,3 @@
+curl -u "acavt3cv:_Passpass7" -X "GET" -H "Accept: application/json"  https://qualysapi.qg3.apps.qualys.com/qps/rest/portal/version
+
+curl -n -u "acavt3cv:_Passpass7" "https://qualysapi.qg3.apps.qualys.com/qps/rest/2.0/get/am/hostasset/28023575"
